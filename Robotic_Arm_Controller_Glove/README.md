@@ -52,5 +52,5 @@ Any advise for common problems or issues.
 
 
 Authors
+Rakhesh Varshan Dhamodaran - rdhamodaran@binghamton.edu
 Kevin Lin - klin138@binghamton.edu
-Rakhesh V. Dhamodaran - rdhamodaran@binghamton.edu
